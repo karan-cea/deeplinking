@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "GXU7L5MK9T.org.reactjs.native.example.MYCEA",
+          "VQS3H42HHF.com.mycea.app",
+          "VQS3H42HHF.com.cea.alicea"
+        ],
+        "paths": [
+          "NOT /*",
+          "/deeplink/*"
+        ]
+      }
+    ]
+  }
+}
